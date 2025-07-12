@@ -1,0 +1,1 @@
+This repository contains the algorithms developed by Professor Juan Miguel Velásquez, Daniel Tovar, and Norida Iquinás as part of the study of the quantization constant formula for Type I lattices in specific dimensions.
